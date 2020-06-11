@@ -8,7 +8,7 @@ The TIM+ reference implementation is an open source implementation of the TIM+ s
 
 ## Where To Start
 
-At the time of writing, the reference implementation is fully contained within a monolithic Spring Boot application.  The application contains both the core XMPP server that implements the TIM+ specification as well as configuration web application that include 
+At the time of writing, the reference implementation is fully contained within a monolithic Spring Boot application.  The application contains both the core XMPP server that implements the TIM+ specification as well as a configuration web application that includes 
 * Creating TIM+ domains
 * Managing certificate and trust stores
 * Creating and managing users
