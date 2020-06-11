@@ -14,4 +14,6 @@ At the time of writing, the reference implementation is fully contained within a
 * Creating and managing users
 * Limiting operational monitoring
 
-You can download the application from the maven central repository here.  Optionally you can build the reference implmentation from source code using the instruction [here](https://github.com/DirectStandards/timplus-ri-build/blob/master/README.md).  Finally, configuration instruction for running the server application can be found here.
+You can download the application from the maven central repository here.  Optionally you can build the reference implementation from source code using the instruction [here](https://github.com/DirectStandards/timplus-ri-build/blob/master/README.md).  
+
+Finally, configuration instruction for running the server application can be found [here](https://directstandards.github.io/timplus-server-boot/).
